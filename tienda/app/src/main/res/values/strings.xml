@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Tienda</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Mi Tiendita</string>
+    <string name="nav_header_subtitle">cesar12_azul@hotmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Aquí noy hay nada</string>
+
+    <string name="menu_home">Bienvenido</string>
+    <string name="menu_crear">Agregar Producto</string>
+    <string name="menu_eliminiar">Eliminar Producto</string>
+    <string name="menu_creditos">Créditos</string>
+    <string name="menu_modificar">Modificar Producto</string>
+    <string name="menu_listar">Listar Productos</string>
+
+    <string name="s_id">ID Producto</string>
+    <string name="s_nombre">Nombre del Producto</string>
+    <string name="s_precio">Precio</string>
+    <string name="s_descuento">Descuento</string>
+    <string name="s_cantidad">Cantidad en existencia</string>
+    <string name="s_perecedero">Perecedero</string>
+    <string name="s_fecha_e">Fecha de Entrada</string>
+
+    <string name="s_atras">Atras</string>
+    <string name="s_guardar">Guardar</string>
+    <string name="s_limpiar">Limpiar</string>
+    <string name="s_buscar">Buscar</string>
+    <string name="s_eliminar">Eliminar</string>
+
+    <string name="s_crear">Registro de Productos</string>
+    <string name="s_listar">Listar Productos</string>
+    <string name="s_modificar">Modificar Producto</string>
+    <string name="s_eliminarA">Eliminar Producto</string>
+
+</resources>
